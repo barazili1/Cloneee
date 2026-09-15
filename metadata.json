@@ -1,0 +1,6 @@
+{
+  "name": "Sparkle Shine Clone",
+  "description": "محفظة رقمية تفاعلية لإدارة الأموال، تحويل الأموال، ودفع الفواتير (Vodafone Cash Clone)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
